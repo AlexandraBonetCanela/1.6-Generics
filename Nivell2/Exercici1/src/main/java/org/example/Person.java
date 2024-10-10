@@ -5,6 +5,7 @@ public class Person {
     private String surname;
     private int age;
 
+    // TODO: Canviar no es a personsino a generic
     public Person(String name, String surname, int age) {
         this.name = name;
         this.surname = surname;
